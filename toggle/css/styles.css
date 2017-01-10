@@ -1,0 +1,86 @@
+.menu {
+    float: right;
+    padding-right: none;
+}
+
+#menuid  {
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  background-color: transparent;
+  border: 0px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+  display: none;
+}
+
+.btn#menuid {
+  padding: 10px;
+  height: 150px;
+  width: 150px;
+  border: 0px;
+}
+
+.menu {
+  text-align: center;
+}
+
+.walrus-showing {
+  display: none;
+}
+
+.container {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+button#green {
+  background-color: green;
+}
+
+button#red {
+  background-color: red;
+}
+
+button#yellow {
+  background-color: yellow;
+}
+
+.light-scheme {
+  background-color: white;
+  color: black;
+}
+
+.dark-scheme {
+  background-color: black;
+  color: white;
+}
+
+.q {
+  background-color: orange;
+  border: solid blue 3px;
+}
